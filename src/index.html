@@ -163,8 +163,8 @@
           <textarea id="comments" name="comments"></textarea>
         </div>
         <div class="input">
-          <span>Would you recommend us?</span>
-          <select>
+          <label for="recommend-us">Would you recommend us?</label>
+          <select name="recommend-us" id="recommend-us">
             <option value="yes">yes</option>
             <option value="no">no</option>
           </select>
@@ -174,7 +174,9 @@
     <button
       id ="button"
       type="submit"
-      onsubmit="onSubmit()">Submit
+      onsubmit="onSubmit()"
+    >
+      Submit
     </button>
     <script type="text/javascript" src="./main.js"></script>
   </body>
