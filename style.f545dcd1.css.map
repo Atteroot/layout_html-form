@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,OACE,kBACF,CAEA,eAEE,iBACF,CAEA,kBACE,QACF","file":"style.f545dcd1.css","sourceRoot":"..\\src","sourcesContent":[".input {\r\n  margin-bottom: 10px;\r\n}\r\n\r\n.field,\r\n#button {\r\n  margin: 20px 2px 0;\r\n}\r\n\r\n.input:last-child {\r\n  margin: 0;\r\n}\r\n"]}
